@@ -1,0 +1,167 @@
+<xml version="1.0">
+<dashboard>
+	<widget field="Stop Climb" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="17" y="184"/>
+	</widget>
+	<widget field="Autonomous Command" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="7" y="219"/>
+	</widget>
+	<widget field="Gear Close" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="9" y="256"/>
+	</widget>
+	<widget field="Output Reverse" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="12" y="298"/>
+	</widget>
+	<widget field="Intake Stop" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="10" y="377"/>
+	</widget>
+	<widget field="Output Stop" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="210" y="218"/>
+	</widget>
+	<widget field="Start Winch" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="17" y="333"/>
+	</widget>
+	<widget field="Output Start" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="147" y="374"/>
+	</widget>
+	<widget field="Stop Winch" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="190" y="248"/>
+	</widget>
+	<widget field="Drive" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="154" y="185"/>
+	</widget>
+	<widget field="Default Command" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="193" y="287"/>
+	</widget>
+	<widget field="Automatic Climb" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="205" y="324"/>
+	</widget>
+	<widget field="Gear Open" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="22" y="409"/>
+	</widget>
+	<widget field="Deflector Arm Down" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="22" y="437"/>
+	</widget>
+	<widget field="Intake Start" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="203" y="411"/>
+	</widget>
+	<widget field="Intake Reverse" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="297" y="375"/>
+	</widget>
+	<widget field="Start Climb" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="373" y="315"/>
+	</widget>
+</dashboard>
+<live-window>
+	<widget field="Intake" type="LW Subsystem" class="edu.wpi.first.smartdashboard.livewindow.elements.LWSubsystem">
+		<widget field="sparkIntake" type="Speed Controller" class="edu.wpi.first.smartdashboard.livewindow.elements.SpeedController">
+			<location x="6" y="16"/>
+			<height>46</height>
+			<width>293</width>
+		</widget>
+		<location x="310" y="213"/>
+		<width>305</width>
+		<height>69</height>
+	</widget>
+	<widget field="DeflectorArm" type="LW Subsystem" class="edu.wpi.first.smartdashboard.livewindow.elements.LWSubsystem">
+		<widget field="solenoidDeflectorArm" type="Double Solenoid" class="edu.wpi.first.smartdashboard.livewindow.elements.RelayController">
+			<location x="6" y="16"/>
+			<height>20</height>
+			<width>189</width>
+		</widget>
+		<widget field="armDownSwitch" type="Digital Input" class="edu.wpi.first.smartdashboard.livewindow.elements.DigitalInputDisplay">
+			<location x="6" y="36"/>
+			<height>20</height>
+			<width>189</width>
+		</widget>
+		<location x="306" y="112"/>
+		<width>201</width>
+		<height>63</height>
+	</widget>
+	<widget field="Winch" type="LW Subsystem" class="edu.wpi.first.smartdashboard.livewindow.elements.LWSubsystem">
+		<widget field="talonSRXWinch" type="CANSpeedController" class="edu.wpi.first.smartdashboard.livewindow.elements.CANSpeedController">
+			<location x="6" y="16"/>
+			<height>141</height>
+			<width>293</width>
+		</widget>
+		<location x="639" y="56"/>
+		<width>305</width>
+		<height>164</height>
+	</widget>
+	<widget field="Gear" type="LW Subsystem" class="edu.wpi.first.smartdashboard.livewindow.elements.LWSubsystem">
+		<widget field="solenoidGear" type="Double Solenoid" class="edu.wpi.first.smartdashboard.livewindow.elements.RelayController">
+			<location x="6" y="16"/>
+			<height>20</height>
+			<width>140</width>
+		</widget>
+		<location x="614" y="12"/>
+		<width>152</width>
+		<height>43</height>
+	</widget>
+	<widget field="Output" type="LW Subsystem" class="edu.wpi.first.smartdashboard.livewindow.elements.LWSubsystem">
+		<widget field="ultrasonicRight" type="Analog Input" class="edu.wpi.first.smartdashboard.livewindow.elements.SingleNumberDisplay">
+			<location x="6" y="16"/>
+			<height>20</height>
+			<width>293</width>
+		</widget>
+		<widget field="sparkOutput" type="Speed Controller" class="edu.wpi.first.smartdashboard.livewindow.elements.SpeedController">
+			<location x="6" y="36"/>
+			<height>46</height>
+			<width>293</width>
+		</widget>
+		<widget field="ultrasonicLeft" type="Analog Input" class="edu.wpi.first.smartdashboard.livewindow.elements.SingleNumberDisplay">
+			<location x="6" y="82"/>
+			<height>20</height>
+			<width>293</width>
+		</widget>
+		<location x="310" y="1"/>
+		<width>305</width>
+		<height>109</height>
+	</widget>
+	<widget field="Drive Train" type="LW Subsystem" class="edu.wpi.first.smartdashboard.livewindow.elements.LWSubsystem">
+		<widget field="talonSRXBackLeft" type="Table" class="edu.wpi.first.smartdashboard.livewindow.elements.CANSpeedController">
+			<location x="0" y="0"/>
+			<height>0</height>
+			<width>0</width>
+		</widget>
+		<widget field="talonSRXBackLeft" type="Table" class="edu.wpi.first.smartdashboard.livewindow.elements.CANSpeedController">
+			<location x="0" y="0"/>
+			<height>0</height>
+			<width>0</width>
+		</widget>
+		<widget field="talonSRXBackRight" type="Table" class="edu.wpi.first.smartdashboard.livewindow.elements.CANSpeedController">
+			<location x="0" y="0"/>
+			<height>0</height>
+			<width>0</width>
+		</widget>
+		<widget field="talonSRXBackRight" type="Table" class="edu.wpi.first.smartdashboard.livewindow.elements.CANSpeedController">
+			<location x="0" y="0"/>
+			<height>0</height>
+			<width>0</width>
+		</widget>
+		<widget field="talonSRXFrontLeft" type="Table" class="edu.wpi.first.smartdashboard.livewindow.elements.CANSpeedController">
+			<location x="0" y="0"/>
+			<height>0</height>
+			<width>0</width>
+		</widget>
+		<widget field="talonSRXFrontLeft" type="Table" class="edu.wpi.first.smartdashboard.livewindow.elements.CANSpeedController">
+			<location x="0" y="0"/>
+			<height>0</height>
+			<width>0</width>
+		</widget>
+		<widget field="talonSRXFrontRight" type="Table" class="edu.wpi.first.smartdashboard.livewindow.elements.CANSpeedController">
+			<location x="0" y="0"/>
+			<height>0</height>
+			<width>0</width>
+		</widget>
+		<widget field="talonSRXFrontRight" type="Table" class="edu.wpi.first.smartdashboard.livewindow.elements.CANSpeedController">
+			<location x="0" y="0"/>
+			<height>0</height>
+			<width>0</width>
+		</widget>
+		<location x="6" y="3"/>
+		<width>305</width>
+		<height>587</height>
+	</widget>
+</live-window>
+</xml>

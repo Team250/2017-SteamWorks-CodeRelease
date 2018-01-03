@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74550f38-d362-49c7-b6a7-3387a3b95711" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.2.1/taskArtifacts/fileHashes.bin"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.2.1/taskArtifacts/fileSnapshots.bin"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.2.1/taskArtifacts/taskArtifacts.bin"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.2.1/taskArtifacts/taskArtifacts.lock"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/libs/SteamWorks2017.jar"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/After RobotBuilder.bat"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Before RobotBuilder.bat"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SteamWorks2017.iml"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SteamWorks2017.iws"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/allclasses-frame.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/allclasses-noframe.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/constant-values.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/deprecated-list.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/help-doc.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/index-all.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/index.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/NavX.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/OI.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/Robot.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/RobotMap.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/AutomaticClimb.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/AutonomousCommand.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/DefaultCommand.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/DeflectorArmDown.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/Drive.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/GearClose.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/GearOpen.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/IntakeReverse.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/IntakeStart.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/IntakeStop.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/OutputReverse.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/OutputStart.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/OutputStop.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/StartClimb.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/StartWinch.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/StopClimb.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/StopWinch.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/WinchStop.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/WinchUp.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/notVeryUsefulCommand.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/package-frame.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/package-summary.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/commands/package-tree.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/package-frame.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/package-summary.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/package-tree.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/subsystems/DeflectorArm.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/subsystems/DriveTrain.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/subsystems/Gear.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/subsystems/Intake.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/subsystems/Output.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/subsystems/Shared.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/subsystems/Winch.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/subsystems/package-frame.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/subsystems/package-summary.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/org/usfirst/frc250/SteamWorks2017/subsystems/package-tree.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-frame.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-summary.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-tree.html"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/package-list"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/script.js"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/docs/javadoc/stylesheet.css"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/javadoc/javadoc.options"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/AutomaticClimb.java"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/StartClimb.java"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/StartWinch.java"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/StopClimb.java"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/StopWinch.java"/>
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wiring.html"/>
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../2017SteamWorks/.idea/modules/2017SteamWorks.iml" afterPath=""/>
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../2017SteamWorks/.idea/modules/2017SteamWorks_main.iml" afterPath=""/>
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../2017SteamWorks/.idea/modules/2017SteamWorks_test.iml" afterPath=""/>
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/notVeryUsefulCommand.java" afterPath=""/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RobotBuilder.yaml" afterPath="$PROJECT_DIR$/RobotBuilder.yaml"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SteamWorks2017.ipr" afterPath="$PROJECT_DIR$/SteamWorks2017.ipr"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/NavX.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/NavX.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/OI.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/OI.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/Robot.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/Robot.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/RobotMap.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/RobotMap.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/Drive.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/Drive.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/GearClose.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/GearClose.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/GearOpen.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/GearOpen.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/IntakeReverse.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/IntakeReverse.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/IntakeStart.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/IntakeStart.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/IntakeStop.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/IntakeStop.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/OutputReverse.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/OutputReverse.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/OutputStart.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/OutputStart.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/OutputStop.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/OutputStop.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/DriveTrain.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/DriveTrain.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Gear.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Gear.java"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Winch.java" afterPath="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Winch.java"/>
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/"/>
+    <ignored path="$PROJECT_DIR$/build/"/>
+    <ignored path="$PROJECT_DIR$/out/"/>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true"/>
+    <option name="TRACKING_ENABLED" value="true"/>
+    <option name="SHOW_DIALOG" value="false"/>
+    <option name="HIGHLIGHT_CONFLICTS" value="true"/>
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+    <option name="LAST_RESOLUTION" value="IGNORE"/>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value=""/>
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true"/>
+        <option name="NOTIFY_UNCAUGHT" value="true"/>
+        <option name="ENABLED" value="false"/>
+        <option name="LOG_ENABLED" value="false"/>
+        <option name="LOG_EXPRESSION_ENABLED" value="false"/>
+        <option name="SUSPEND_POLICY" value="SuspendAll"/>
+        <option name="COUNT_FILTER_ENABLED" value="false"/>
+        <option name="COUNT_FILTER" value="0"/>
+        <option name="CONDITION_ENABLED" value="false"/>
+        <option name="CLASS_FILTERS_ENABLED" value="false"/>
+        <option name="INSTANCE_FILTERS_ENABLED" value="false"/>
+        <option name="CONDITION" value=""/>
+        <option name="LOG_MESSAGE" value=""/>
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true"/>
+        <option name="NOTIFY_UNCAUGHT" value="true"/>
+        <option name="ENABLED" value="false"/>
+        <option name="LOG_ENABLED" value="false"/>
+        <option name="LOG_EXPRESSION_ENABLED" value="false"/>
+        <option name="SUSPEND_POLICY" value="SuspendAll"/>
+        <option name="COUNT_FILTER_ENABLED" value="false"/>
+        <option name="COUNT_FILTER" value="0"/>
+        <option name="CONDITION_ENABLED" value="false"/>
+        <option name="CLASS_FILTERS_ENABLED" value="false"/>
+        <option name="INSTANCE_FILTERS_ENABLED" value="false"/>
+        <option name="CONDITION" value=""/>
+        <option name="LOG_MESSAGE" value=""/>
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true"/>
+    <ui_properties converted="true"/>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target"/>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState/>
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation/>
+        </task>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value=""/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode"/>
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="SteamWorks2017"/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode"/>
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value=""/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode"/>
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="SteamWorks2017"/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode"/>
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks"/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode"/>
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value=""/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode"/>
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="SteamWorks2017"/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode"/>
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks"/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode"/>
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="documentation"/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1"/>
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value=""/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode"/>
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="SteamWorks2017"/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode"/>
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks"/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode"/>
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="build"/>
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1"/>
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RobotMap.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/RobotMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0"/>
+              <folding/>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class"/>
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>a</find>
+      <find>Utilities</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.."/>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Programmers\.gradle\wrapper\dists\gradle-3.2.1-bin\erlz51pt56t1o6vc7t39cikug\gradle-3.2.1"/>
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.2.1"/>
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SteamWorks2017"/>
+              <option name="path" value="$PROJECT_DIR$"/>
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="SteamWorks2017"/>
+                <option name="path" value="$PROJECT_DIR$"/>
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'SteamWorks2017'. [incubating]"/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="components"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="buildDependents"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="cleanEclipseClasspath"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'SteamWorks2017'."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="projects"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Restart User Code running on the RoboRIO"/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="restart_rio_code"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="cleanEclipse"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="classes"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'SteamWorks2017'. [incubating]"/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="dependentComponents"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'SteamWorks2017'."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="buildEnvironment"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="cleanEclipseProject"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="wrapper"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="testClasses"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deploy Java Code to the RoboRIO"/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="deploy"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="javadoc"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="eclipseClasspath"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="jar"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'SteamWorks2017'. [incubating]"/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="model"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="processResources"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'SteamWorks2017'."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="tasks"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="cleanEclipseJdt"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]"/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="init"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="test"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Resolve Dependencies from Maven"/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="resolveNativeDeps"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="compileJava"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'SteamWorks2017'."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="dependencyInsight"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="check"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="assemble"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="clean"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="compileTestJava"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Determine the active address for the RoboRIO"/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="determine_rio_address"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'SteamWorks2017'."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="dependencies"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="eclipse"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="processTestResources"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="help"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="eclipseJdt"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="build"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="buildNeeded"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="eclipseProject"/>
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'SteamWorks2017'."/>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$"/>
+                <option name="name" value="properties"/>
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1488247816757"/>
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.jaci.openrio.gradle/GradleRIO/2017.1.2/94024a44aef9416d156c846833b1d0722523a015/GradleRIO-2017.1.2.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hidetake/groovy-ssh/2.7.0/8ab5ff7debb45f254cd304af5f966d805154bc16/groovy-ssh-2.7.0.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.4.7/c5371aaa20bcdca1175d9477fc0811f4fd99b68a/groovy-all-2.4.7.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.7/2b8019b6249bb05d81d3a3094e468753e2b21311/slf4j-api-1.7.7.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.53/658b682d5c817b27ae795637dfec047c63d29935/jsch-0.1.53.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.connector-factory/0.0.7/780e0312287dd4e4f3601d401a073a081e403f2d/jsch.agentproxy.connector-factory-0.0.7.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.jsch/0.0.7/ff3a71caf45efeb00980f93f0c39a9750640e8d8/jsch.agentproxy.jsch-0.0.7.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.core/0.0.7/9bcf818dc9e5247b01b1b18671a12caac293ae40/jsch.agentproxy.core-0.0.7.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.usocket-jna/0.0.7/98cf51ca8d7882c203729ffa48e9b7be4c50b835/jsch.agentproxy.usocket-jna-0.0.7.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.usocket-nc/0.0.7/aff6f0f3a68f9731580d7c48075fdf177532dfe6/jsch.agentproxy.usocket-nc-0.0.7.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.sshagent/0.0.7/5c09a3d2a0562de53cf616794f43f51a3c0a496c/jsch.agentproxy.sshagent-0.0.7.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.pageant/0.0.7/b40c0d9b10d79a0683ca93e3f70360b3d8045b62/jsch.agentproxy.pageant-0.0.7.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/3.4.0/803ff252fedbd395baffd43b37341dc4a150a554/jna-3.4.0.jar"/>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/platform/3.4.0/e3f70017be8100d3d6923f50b3d2ee17714e9c13/platform-3.4.0.jar"/>
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$"/>
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="SteamWorks2017"/>
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/ant-1.9.6.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/ant-launcher-1.9.6.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-base-services-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-base-services-groovy-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-cli-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-core-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-docs-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-installation-beacon-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-jvm-services-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-launcher-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-logging-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-messaging-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-model-core-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-model-groovy-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-native-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-open-api-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-process-services-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-resources-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-script-kotlin-0.4.0.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-tooling-api-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-ui-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/gradle-wrapper-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/groovy-all-2.4.7.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-announce-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-antlr-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-build-comparison-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-build-init-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-code-quality-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-composite-builds-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-dependency-management-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-diagnostics-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-ear-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-ide-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-ide-native-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-ide-play-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-ivy-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-jacoco-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-javascript-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-jetty-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-language-groovy-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-language-java-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-language-jvm-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-language-native-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-language-scala-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-maven-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-osgi-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-platform-base-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-platform-jvm-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-platform-native-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-platform-play-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-plugin-development-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-plugin-use-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-plugins-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-publish-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-reporting-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-resources-http-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-resources-s3-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-resources-sftp-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-scala-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-signing-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-task-cache-http-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-test-kit-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-testing-base-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-testing-jvm-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-testing-native-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/gradle-tooling-api-builders-3.2.1.jar"/>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1/lib/plugins/ivy-2.2.0.jar"/>
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java"/>
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy"/>
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view/>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Gear.java"/>
+        <option value="$PROJECT_DIR$/src/org/usfirst/frc250/SteamWorks2017/RobotMap.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Intake.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/DeflectorArm.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Output.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/NavX.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Shared.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/WinchUp.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/Climb.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Winch.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/subsystems/Shared.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/DriveTrain.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/StopClimb.java"/>
+        <option value="$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/RobotMap.java"/>
+      </list>
+    </option>
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME"/>
+    <option name="LAST_EDITED_TAB_NAME"/>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8"/>
+    <option name="y" value="-8"/>
+    <option name="width" value="1296"/>
+    <option name="height" value="776"/>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state/>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true"/>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0"/>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages/>
+      <showMembers/>
+      <showModules/>
+      <showLibraryContents/>
+      <hideEmptyPackages/>
+      <abbreviatePackageNames/>
+      <autoscrollToSource/>
+      <autoscrollFromSource/>
+      <sortByType/>
+      <manualOrder/>
+      <foldersAlwaysOnTop value="true"/>
+    </navigator>
+    <panes>
+      <pane id="Scope"/>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleGroupNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleGroupNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017_main"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleGroupNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017_main"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org.usfirst.frc250.SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleGroupNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SteamWorks2017_main"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org.usfirst.frc250.SteamWorks2017"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subsystems"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode"/>
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches"/>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false"/>
+    <property name="GoToClass.toSaveIncludeLibraries" value="false"/>
+    <property name="MemberChooser.sorted" value="false"/>
+    <property name="MemberChooser.showClasses" value="true"/>
+    <property name="GoToClass.includeLibraries" value="false"/>
+    <property name="MemberChooser.copyJavadoc" value="false"/>
+  </component>
+  <component name="RunManager" selected="Gradle.Deploy">
+    <configuration default="false" name="SteamWorks2017 [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName"/>
+        <option name="externalProjectPath" value="$PROJECT_DIR$"/>
+        <option name="externalSystemIdString" value="GRADLE"/>
+        <option name="scriptParameters" value=""/>
+        <option name="taskDescriptions">
+          <list/>
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents"/>
+          </list>
+        </option>
+        <option name="vmOptions" value=""/>
+      </ExternalSystemSettings>
+      <method/>
+    </configuration>
+    <configuration default="false" name="SteamWorks2017 [javadoc]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName"/>
+        <option name="externalProjectPath" value="$PROJECT_DIR$"/>
+        <option name="externalSystemIdString" value="GRADLE"/>
+        <option name="scriptParameters" value=""/>
+        <option name="taskDescriptions">
+          <list/>
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="javadoc"/>
+          </list>
+        </option>
+        <option name="vmOptions" value=""/>
+      </ExternalSystemSettings>
+      <method/>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name=""/>
+      <option name="DEPLOY" value="true"/>
+      <option name="ARTIFACT_NAME" value=""/>
+      <option name="PM_INSTALL_OPTIONS" value=""/>
+      <option name="ACTIVITY_EXTRA_FLAGS" value=""/>
+      <option name="MODE" value="default_activity"/>
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG"/>
+      <option name="PREFERRED_AVD" value=""/>
+      <option name="CLEAR_LOGCAT" value="false"/>
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false"/>
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true"/>
+      <option name="FORCE_STOP_RUNNING_APP" value="true"/>
+      <option name="DEBUGGER_TYPE" value="Java"/>
+      <option name="USE_LAST_SELECTED_DEVICE" value="false"/>
+      <option name="PREFERRED_AVD" value=""/>
+      <Java/>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true"/>
+        <option name="GAPID_ENABLED" value="false"/>
+        <option name="GAPID_DISABLE_PCS" value="false"/>
+        <option name="SUPPORT_LIB_ENABLED" value="true"/>
+        <option name="INSTRUMENTATION_ENABLED" value="true"/>
+      </Profilers>
+      <option name="DEEP_LINK" value=""/>
+      <option name="ACTIVITY_CLASS" value=""/>
+      <method/>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name=""/>
+      <option name="TESTING_TYPE" value="0"/>
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value=""/>
+      <option name="METHOD_NAME" value=""/>
+      <option name="CLASS_NAME" value=""/>
+      <option name="PACKAGE_NAME" value=""/>
+      <option name="EXTRA_OPTIONS" value=""/>
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG"/>
+      <option name="PREFERRED_AVD" value=""/>
+      <option name="CLEAR_LOGCAT" value="false"/>
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false"/>
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true"/>
+      <option name="FORCE_STOP_RUNNING_APP" value="true"/>
+      <option name="DEBUGGER_TYPE" value="Java"/>
+      <option name="USE_LAST_SELECTED_DEVICE" value="false"/>
+      <option name="PREFERRED_AVD" value=""/>
+      <Java/>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true"/>
+        <option name="GAPID_ENABLED" value="false"/>
+        <option name="GAPID_DISABLE_PCS" value="false"/>
+        <option name="SUPPORT_LIB_ENABLED" value="true"/>
+        <option name="INSTRUMENTATION_ENABLED" value="true"/>
+      </Profilers>
+      <method/>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module/>
+      <option name="HTML_USED" value="false"/>
+      <option name="WIDTH" value="400"/>
+      <option name="HEIGHT" value="300"/>
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy"/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <method/>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" runner="idea"/>
+      <option name="MAIN_CLASS_NAME"/>
+      <option name="VM_PARAMETERS"/>
+      <option name="PROGRAM_PARAMETERS"/>
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH"/>
+      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <module name=""/>
+      <envs/>
+      <method/>
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName"/>
+        <option name="externalProjectPath"/>
+        <option name="externalSystemIdString" value="GRADLE"/>
+        <option name="scriptParameters"/>
+        <option name="taskDescriptions">
+          <list/>
+        </option>
+        <option name="taskNames">
+          <list/>
+        </option>
+        <option name="vmOptions"/>
+      </ExternalSystemSettings>
+      <method/>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" runner="idea"/>
+      <module name=""/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH"/>
+      <option name="PACKAGE_NAME"/>
+      <option name="MAIN_CLASS_NAME"/>
+      <option name="METHOD_NAME"/>
+      <option name="TEST_OBJECT" value="class"/>
+      <option name="VM_PARAMETERS"/>
+      <option name="PARAMETERS"/>
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies"/>
+      </option>
+      <envs/>
+      <patterns/>
+      <method/>
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
+      <envs/>
+      <method/>
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
+      <option name="SCRATCH_FILE_ID" value="0"/>
+      <option name="MAIN_CLASS_NAME"/>
+      <option name="VM_PARAMETERS"/>
+      <option name="PROGRAM_PARAMETERS"/>
+      <option name="WORKING_DIRECTORY"/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH"/>
+      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <module name=""/>
+      <envs/>
+      <method/>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
+      <option name="MAIN_CLASS_NAME"/>
+      <option name="VM_PARAMETERS"/>
+      <option name="PROGRAM_PARAMETERS"/>
+      <option name="WORKING_DIRECTORY"/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <module name="SteamWorks2017"/>
+      <envs/>
+      <method/>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
+      <option name="filePath"/>
+      <option name="vmParameters"/>
+      <option name="alternativeJrePath"/>
+      <option name="programParameters"/>
+      <option name="passParentEnvs" value="true"/>
+      <option name="workingDirectory"/>
+      <option name="isAlternativeJrePathEnabled" value="false"/>
+      <envs/>
+      <method/>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true"/>
+      <option name="SERVER_MODE" value="false"/>
+      <option name="SHMEM_ADDRESS" value="javadebug"/>
+      <option name="HOST" value="localhost"/>
+      <option name="PORT" value="5005"/>
+      <method/>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
+      <module name=""/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH"/>
+      <option name="SUITE_NAME"/>
+      <option name="PACKAGE_NAME"/>
+      <option name="MAIN_CLASS_NAME"/>
+      <option name="METHOD_NAME"/>
+      <option name="GROUP_NAME"/>
+      <option name="TEST_OBJECT" value="CLASS"/>
+      <option name="VM_PARAMETERS"/>
+      <option name="PARAMETERS"/>
+      <option name="WORKING_DIRECTORY"/>
+      <option name="OUTPUT_DIRECTORY"/>
+      <option name="ANNOTATION_TYPE"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule"/>
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false"/>
+      <option name="PROPERTIES_FILE"/>
+      <envs/>
+      <properties/>
+      <listeners/>
+      <method/>
+    </configuration>
+    <configuration default="false" name="Deploy" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName"/>
+        <option name="externalProjectPath" value="$PROJECT_DIR$"/>
+        <option name="externalSystemIdString" value="GRADLE"/>
+        <option name="scriptParameters" value=""/>
+        <option name="taskDescriptions">
+          <list/>
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents"/>
+            <option value="deploy"/>
+            <option value="javadoc"/>
+          </list>
+        </option>
+        <option name="vmOptions" value=""/>
+      </ExternalSystemSettings>
+      <method/>
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Gradle.Deploy"/>
+      <item index="1" class="java.lang.String" itemvalue="Gradle.SteamWorks2017 [buildDependents]"/>
+      <item index="2" class="java.lang.String" itemvalue="Gradle.SteamWorks2017 [javadoc]"/>
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.SteamWorks2017 [buildDependents]"/>
+        <item index="1" class="java.lang.String" itemvalue="Gradle.SteamWorks2017 [javadoc]"/>
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false"/>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration/>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74550f38-d362-49c7-b6a7-3387a3b95711" name="Default" comment=""/>
+      <created>1488247818338</created>
+      <option name="number" value="Default"/>
+      <option name="presentableId" value="Default"/>
+      <updated>1488247818338</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1488248137575</created>
+      <option name="number" value="00001"/>
+      <option name="presentableId" value="LOCAL-00001"/>
+      <option name="project" value="LOCAL"/>
+      <updated>1488248137575</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Setup the subsystems&#10;Finished gear  100%&#10;Changed the robot map to have mecanum drive&#10;">
+      <created>1488334493531</created>
+      <option name="number" value="00002"/>
+      <option name="presentableId" value="LOCAL-00002"/>
+      <option name="project" value="LOCAL"/>
+      <updated>1488334493531</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added arm speed to output system and still need to add ultrasonic sensors.&#10;Completed Intake, DeflectorArm subsystems.&#10;Started the drive train subsystem.&#10;&#10;">
+      <created>1488420562754</created>
+      <option name="number" value="00003"/>
+      <option name="presentableId" value="LOCAL-00003"/>
+      <option name="project" value="LOCAL"/>
+      <updated>1488420562755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added ultrasonic sensors to output. &#10;Added setTargetDistance for ultrasonic sensors but need to do the TODO.&#10;Added talon encoder read and java docs to Winch.&#10;&#10;&#10;&#10;">
+      <created>1488506981342</created>
+      <option name="number" value="00004"/>
+      <option name="presentableId" value="LOCAL-00004"/>
+      <option name="project" value="LOCAL"/>
+      <updated>1488506981342</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added NavX for NavX variables&#10;Added NavX properties for future use">
+      <created>1488593793779</created>
+      <option name="number" value="00005"/>
+      <option name="presentableId" value="LOCAL-00005"/>
+      <option name="project" value="LOCAL"/>
+      <updated>1488593793779</updated>
+    </task>
+    <option name="localTasksCounter" value="6"/>
+    <servers/>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true"/>
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true"/>
+      <is-autoscroll-to-source value="true"/>
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6"/>
+    <editor active="false"/>
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs"/>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs"/>
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs"/>
+      <window_info id="Palette	" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs"/>
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs"/>
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs"/>
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298351" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs"/>
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs"/>
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298351" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs"/>
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298351" sideWeight="0.496875" order="9" side_tool="false" content_ui="tabs"/>
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs"/>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs"/>
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs"/>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs"/>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo"/>
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs"/>
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs"/>
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs"/>
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs"/>
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs"/>
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs"/>
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs"/>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs"/>
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs"/>
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs"/>
+      <window_info id="Palette " active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs"/>
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo"/>
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs"/>
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298351" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs"/>
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000"/>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit"/>
+    <MESSAGE value="Setup the subsystems&#10;Finished gear  100%&#10;Changed the robot map to have mecanum drive&#10;"/>
+    <MESSAGE value="Added arm speed to output system and still need to add ultrasonic sensors.&#10;Completed Intake, DeflectorArm subsystems.&#10;Started the drive train subsystem.&#10;&#10;"/>
+    <MESSAGE value="Added ultrasonic sensors to output. &#10;Added setTargetDistance for ultrasonic sensors but need to do the TODO.&#10;Added talon encoder read and java docs to Winch.&#10;&#10;&#10;&#10;"/>
+    <MESSAGE value="Added NavX for NavX variables&#10;Added NavX properties for future use"/>
+    <option name="LAST_COMMIT_MESSAGE" value="Added NavX for NavX variables&#10;Added NavX properties for future use"/>
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true"/>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager/>
+    <watches-manager/>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false"/>
+    <option name="FILTER_TARGETS" value="false"/>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Winch.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/RobotMap.java"/>
+    <entry file="file://$PROJECT_DIR$/RobotBuilder.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/DriveTrain.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Gear.java"/>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Shared.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Intake.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Winch.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Output.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/DeflectorArm.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/RobotMap.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/Robot.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/AutonomousCommand.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/DriveTrain.java"/>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/AutonomousCommand.java"/>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc250/SteamWorks2017/RobotMap.java"/>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc250/SteamWorks2017/subsystems/DriveTrain.java"/>
+    <entry file="file://$PROJECT_DIR$/.classpath"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/Robot.java"/>
+    <entry file="file://$PROJECT_DIR$/RobotBuilder.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/OutputStart.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/AutonomousCommand.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/Climb.java"/>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc250/SteamWorks2017/subsystems/DeflectorArm.java"/>
+    <entry file="file://$PROJECT_DIR$/src/org/usfirst/frc250/SteamWorks2017/subsystems/Winch.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/subsystems/Shared.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/RobotMap.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/subsystems/Output.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/subsystems/Gear.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/subsystems/DeflectorArm.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/subsystems/Intake.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/NavX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/AutomaticClimb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Intake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Gear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/DeflectorArm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/commands/AutomaticClimb.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/subsystems/Winch.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/subsystems/DriveTrain.java"/>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Shared.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32"/>
+          <folding>
+            <element signature="imports" expanded="true"/>
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/Winch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="92" column="1" lean-forward="false" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/subsystems/DriveTrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="11"/>
+          <folding>
+            <element signature="imports" expanded="true"/>
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/StopWinch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/commands/StopClimb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="32" column="68" lean-forward="false" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0"/>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/usfirst/frc250/SteamWorks2017/RobotMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0"/>
+          <folding/>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

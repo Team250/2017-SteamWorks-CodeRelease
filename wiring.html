@@ -1,0 +1,78 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>Wiring</title>
+    <style type="text/css" media="screen">
+      table {
+          text-align: left;
+          width: 400px;
+
+          border-top: 2px solid black;
+          border-bottom: 2px solid black;
+          border-collapse:collapse;
+          border-spacing:0px;
+      }
+      th {
+          border-top: 2px solid black;
+          border-bottom: 2px solid black;
+      }
+      .pound {
+          width: 30px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Wiring</h1>
+                    <h2>DIO</h2>
+	    <table><tr>
+	        <th class="pound">#</th>
+	        <th>Sensor</th></tr>
+	                                               <tr><td>0</td><td>DeflectorArm armDownSwitch</td><td></td></tr>
+            	                                                                                                                                                                                                                                                                                                                 	    </table>
+                    <h2>PWMs</h2>
+	    <table><tr>
+	        <th class="pound">#</th>
+	        <th>Motor</th>
+                <th>Type</th></tr>
+	                                               <tr><td>0</td><td>Intake sparkIntake</td><td>Spark</td></tr>
+            	                                         <tr><td>1</td><td>Output sparkOutput</td><td>Spark</td></tr>
+            	                                                                                                                                                                                                                                                                                                     	    </table>
+     
+                <h2>CAN IDs</h2>
+	<table><tr>
+	<th class="pound">ID</th>
+	<th>Device</th></tr>
+	                                         <tr><td>0</td><td>Shared powerDistributionPanel</td><td></td></tr>
+            	                                                     <tr><td>2</td><td>Drive Train talonSRXFrontLeft</td><td></td></tr>
+            	                                         <tr><td>3</td><td>Drive Train talonSRXFrontRight</td><td></td></tr>
+            	                                         <tr><td>4</td><td>Drive Train talonSRXBackLeft</td><td></td></tr>
+            	                                         <tr><td>5</td><td>Drive Train talonSRXBackRight</td><td></td></tr>
+            	                                         <tr><td>6</td><td>Winch talonSRXWinch</td><td></td></tr>
+            	                                                                                                                                                                                                                                         	</table>
+    
+            
+                    <h2>Analog Inputs</h2>
+	    <table><tr>
+	        <th class="pound">#</th>
+	        <th>Sensor</th></tr>
+	                                               <tr><td>0</td><td>Output ultrasonicLeft</td><td></td></tr>
+            	                                         <tr><td>1</td><td>Output ultrasonicRight</td><td></td></tr>
+            	                                                                                                                                                                                                                                                                                                     	    </table>
+    
+                    <h2>PCM 0</h2>
+	    <table><tr>
+	        <th class="pound">#</th>
+	        <th>Solenoid</th></tr>
+	                                                                                   <tr><td>3</td><td>Gear solenoidGear Reverse </td><td></td></tr>
+            	                                         <tr><td>4</td><td>DeflectorArm solenoidDeflectorArm Reverse </td><td></td></tr>
+            	                                         <tr><td>5</td><td>DeflectorArm solenoidDeflectorArm Forward </td><td></td></tr>
+            	                                         <tr><td>6</td><td>Gear solenoidGear Forward </td><td></td></tr>
+            	                                                                                                                                                                                                                                         	    </table>
+                                                                                                                                                                                                                                                    
+                <h2>Compressor</h2>
+	<table><tr>
+	<th class="pound">PCM</th>
+	<th>Device</th></tr>
+	                                         <tr><td>0</td><td>Shared compressor</td><td></td></tr>
+            	                                                                                                                                                                                                                                                                                                                 	</table>
+      </body>
+</html>
